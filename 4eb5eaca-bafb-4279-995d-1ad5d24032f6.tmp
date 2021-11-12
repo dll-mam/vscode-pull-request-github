@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">Visual Studio Code - Code Editing. Redefined.</title>
+  <link type="application/atom+xml" href="https://code.visualstudio.com/feed.xml" rel="self"/>
+  <link type="text/html" href="https://code.visualstudio.com/" rel="alternate"/>
+  <updated>2021-10-20T00:00:00.000Z</updated>
+  <id>https://code.visualstudio.com/</id>
+  <rights>Copyright (c) 2021, Microsoft, Inc.; all rights reserved.</rights>
+
+  
+  <entry>
+    <title>vscode.dev Visual Studio Code for the Web</title>
+    <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
+    <updated>2021-10-20T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Webview UI Toolkit for Visual Studio Code</title>
+    <link href="https://code.visualstudio.com/blogs/2021/10/11/webview-ui-toolkit"/>
+    <updated>2021-10-11T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/10/11/webview-ui-toolkit</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/10/11/webview-ui-toolkit"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>David Dossett</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code September 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_61"/>
+    <updated>2021-10-07T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_61</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code September 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_61"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>How We Made Bracket Pair Colorization 10,000x Faster In Visual Studio Code</title>
+    <link href="https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization"/>
+    <updated>2021-09-29T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Henning Dieterichs</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code August 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_60"/>
+    <updated>2021-09-02T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_60</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code August 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_60"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code July 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_59"/>
+    <updated>2021-08-05T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_59</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code July 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_59"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>The Coming of Age of Notebooks</title>
+    <link href="https://code.visualstudio.com/blogs/2021/08/05/notebooks"/>
+    <updated>2021-08-05T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/08/05/notebooks</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/08/05/notebooks"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code June 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_58"/>
+    <updated>2021-07-08T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_58</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code June 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_58"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Workspace Trust in Visual Studio Code</title>
+    <link href="https://code.visualstudio.com/blogs/2021/07/06/workspace-trust"/>
+    <updated>2021-07-06T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/07/06/workspace-trust</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/07/06/workspace-trust"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Chris Dias</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code May 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_57"/>
+    <updated>2021-06-10T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_57</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code May 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_57"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Remote Repositories extension for Visual Studio Code</title>
+    <link href="https://code.visualstudio.com/blogs/2021/06/10/remote-repositories"/>
+    <updated>2021-06-10T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/06/10/remote-repositories</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/06/10/remote-repositories"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Brigit Murtaugh, Eric Amodio</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code at Microsoft Build 2021</title>
+    <link href="https://code.visualstudio.com/blogs/2021/06/02/build-2021"/>
+    <updated>2021-06-02T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/06/02/build-2021</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/06/02/build-2021"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Alessandro Segala</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code April 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_56"/>
+    <updated>2021-05-05T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_56</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code April 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_56"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code March 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_55"/>
+    <updated>2021-03-31T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_55</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code March 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_55"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code February 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_54"/>
+    <updated>2021-03-04T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_54</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code February 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_54"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code extension bisect utility</title>
+    <link href="https://code.visualstudio.com/blogs/2021/02/16/extension-bisect"/>
+    <updated>2021-02-16T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2021/02/16/extension-bisect</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2021/02/16/extension-bisect"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Johannes Rieken</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code January 2021</title>
+    <link href="https://code.visualstudio.com/updates/v1_53"/>
+    <updated>2021-02-04T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_53</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code January 2021&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_53"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code November 2020</title>
+    <link href="https://code.visualstudio.com/updates/v1_52"/>
+    <updated>2020-12-11T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_52</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code November 2020&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_52"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Coding and learning with VS Code on Chromebooks</title>
+    <link href="https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started"/>
+    <updated>2020-12-03T00:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started</id>
+    <content type="html">
+      &lt;p&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Alessandro Segala</name>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code October 2020</title>
+    <link href="https://code.visualstudio.com/updates/v1_51"/>
+    <updated>2020-11-06T17:00:00.000Z</updated>
+    <id>https://code.visualstudio.com/updates/v1_51</id>
+    <content type="html">
+      &lt;p&gt;Visual Studio Code October 2020&lt;/p&gt;
+      &lt;p&gt;&lt;a href="https://code.visualstudio.com/updates/v1_51"&gt;Read the full article&lt;/a&gt;&lt;/p&gt;
+    </content>
+    <author>
+        <name>Visual Studio Code Team</name>
+    </author>
+  </entry>
+  
+</feed>

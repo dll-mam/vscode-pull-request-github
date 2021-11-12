@@ -1,0 +1,3 @@
+﻿Instance,Category,Cores,RAM,Disk Space,Drive Type,Infrastructure Cost,Software Cost,Hourly,Monthly
+D3v2,General Purpose,4,14GB,200GB,SSD,"0,315 US$","[object Object]","5,515 US$","4 103,16 US$"
+F16,Compute Optimized,16,32GB,256GB,SSD,"0,909 US$","[object Object]","21,709 US$","16 151,496 US$"
